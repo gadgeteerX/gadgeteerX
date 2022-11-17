@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gadgeteerX
-- 👀 I’m interested in SQLServer, PowerBI, C#
+- 👀 I’m interested in SQLServer, C#, PowerBI
 - 🌱 I’m currently learning SQLServer performance tuning
 - 💞️ I’m looking to collaborate on SQLServer
 - 📫 How to reach me ...
