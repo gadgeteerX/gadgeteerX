@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gadgeteerX
 - 👀 I’m interested in SQLServer, C# (WPF, EF)
-- 🌱 I’m currently learning SQLServer performance tuning
-- 💞️ I’m looking to collaborate on SQLServer
+- 🌱 I’m currently learning C# Entity Framework
+- 💞️ I’m looking to collaborate on SQLServer and C# WPF projects
 - 📫 How to reach me ...
 
 <!---
